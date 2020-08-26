@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an economist and data scientist with over 10 years of experience in data related roles. I have worked both in academia and in the private sector. I currently work as a Data Analyst at PedidosYa, one of the largest online food delivery companies in Latin America with presence in 7 countries and a subsidiary of Delivery Hero. I also hold a TA position teching ML and statistical learning at Udelar.
+
 <!--
 **daczarne/daczarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
