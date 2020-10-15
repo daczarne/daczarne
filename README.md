@@ -4,9 +4,9 @@ I am an economist and data scientist with over 10 years of experience in data re
 
 You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to learn more about me.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/daczarne/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&hide=html,javascript,stata,tex,scheme&theme=radical)](https://github.com/daczarne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&hide=html,javascript,stata,tex,scheme&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **daczarne/daczarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
