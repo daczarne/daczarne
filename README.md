@@ -4,7 +4,7 @@ I am an economist and data scientist with over 10 years of experience in data re
 
 You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to learn more about me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact)](https://github.com/daczarne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&hide=html)](https://github.com/daczarne/github-readme-stats)
 
 <!--
 **daczarne/daczarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
