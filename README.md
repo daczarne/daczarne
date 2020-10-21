@@ -7,5 +7,5 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical&exclude_repo=cv_spanish,hugo_hp_test,test-git2r,test_flexdashboard_dynamic_pages,shiny-examples,hugo_cp_test,statsExpressions,udemyML,r4ds-exercise-solutions,drawio-github,ISLR" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical&exclude_repo=cv_spanish,test_flexdashboard_dynamic_pages,shiny-examples,statsExpressions,udemyML,r4ds-exercise-solutions,drawio-github,ISLR" />
 </a>
