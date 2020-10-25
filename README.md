@@ -3,9 +3,11 @@ I am an economist and data scientist with over 10 years of experience in data re
 
 You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to learn more about me.
 
+<!--
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
 </a>
+-->
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
 </a>
