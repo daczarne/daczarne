@@ -13,7 +13,10 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
 </a>  
 
-## Get in contact
+### Get in contact:
 
-[<img align="left" alt="danielczarnievicz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://danielczarnievicz.netlify.app/portfolio">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>  
+
 [<img align="left" alt="daczarne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
