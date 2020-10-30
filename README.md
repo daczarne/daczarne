@@ -1,4 +1,5 @@
 ### Hi there 👋  
+
 I am an economist and data scientist with over 10 years of experience in data related roles. I have worked both in academia and in the private sector. I currently work as a Data Analyst at PedidosYa, one of the largest online food delivery companies in Latin America with presence in 7 countries and a subsidiary of Delivery Hero. I also hold a TA position teching ML at Udelar.
 
 You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to learn more about me.
@@ -10,4 +11,9 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
 -->
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
-</a>
+</a>  
+
+## Get in contact
+
+[<img align="left" alt="danielczarnievicz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="daczarne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
