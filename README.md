@@ -34,11 +34,11 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://twitter.com/daczarne" >
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/twitter/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/danielczarnievicz/" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/5908830/daniel" >
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="color:FE7A16" />
 </a>
