@@ -39,4 +39,6 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
 <a href="https://www.linkedin.com/in/danielczarnievicz/" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://stackoverflow.com/users/5908830/daniel" >
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
