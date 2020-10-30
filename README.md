@@ -4,16 +4,7 @@
 
 I am an economist and data scientist with over 10 years of experience in data related roles. I have worked both in academia and in the private sector. I currently work as a Data Analyst at PedidosYa, one of the largest online food delivery companies in Latin America with presence in 7 countries and a subsidiary of Delivery Hero. I also hold a TA position teching ML at Udelar.
 
-You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to learn more about me.
-
-<!--
-<a href="https://github.com/daczarne/daczarne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
-</a>
--->
-<a href="https://github.com/daczarne/daczarne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
-</a>  
+<br />
 
 ### Tooling
 
@@ -25,6 +16,17 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br />
+
+<!--
+<a href="https://github.com/daczarne/daczarne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
+</a>
+-->
+<a href="https://github.com/daczarne/daczarne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
+</a>
 
 <br />
 
@@ -41,4 +43,4 @@ You can visit [my web page](https://danielczarnievicz.netlify.app/portfolio/) to
 </a>
 <a href="https://stackoverflow.com/users/5908830/daniel" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="color:FE7A16" />
-</a>
+</a>  
