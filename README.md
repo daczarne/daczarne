@@ -34,7 +34,7 @@ I am an economist and data scientist with over 10 years of experience in data re
 
 <br />
 
-### Get in contact:
+### Get in touch:
 
 <a href="https://danielczarnievicz.netlify.app/portfolio" fill="fe7a16" >
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
