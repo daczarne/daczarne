@@ -29,7 +29,7 @@ I am an economist and data scientist with over 10 years of experience in data re
 </a>
 -->
 <a href="https://github.com/daczarne/daczarne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=9&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
 </a>
 
 <br />
