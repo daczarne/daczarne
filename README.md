@@ -32,8 +32,6 @@ I am an economist and data scientist with over 10 years of experience in data re
 </a>
 -->
 
-<br />
-
 ### Get in touch:
 
 <a href="https://danielczarnievicz.netlify.app/portfolio" fill="fe7a16" >
