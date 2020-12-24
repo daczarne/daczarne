@@ -28,7 +28,7 @@ I am an economist with over 10 years of experience in data-related roles. I have
 </a>
 -->
 <a href="https://github.com/daczarne/daczarne">
-  <img align="center" src="https://github-readme-stats-ten-pink.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical&hide=rmd" />
+  <img align="center" src="https://github-readme-stats-ten-pink.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical&hide=rmarkdown" />
 </a>
 
 
