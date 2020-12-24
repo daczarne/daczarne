@@ -26,11 +26,10 @@ I am an economist with over 10 years of experience in data-related roles. I have
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
 </a>
-
+-->
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats-ten-pink.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
 </a>
--->
 
 ### Get in touch
 
