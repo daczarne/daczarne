@@ -4,7 +4,7 @@
 
 I am an economist with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Data Analyst at PedidosYa, one of the largest online food delivery companies in Latin America with a presence in 7 countries and a subsidiary of Delivery Hero. I also hold a TA position teaching ML at Udelar.
 
-
+<!--
 
 ### Tooling
 
@@ -22,7 +22,6 @@ I am an economist with over 10 years of experience in data-related roles. I have
 <img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
-<!--
 <a href="https://github.com/daczarne/daczarne">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daczarne&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=GitHub%20Stats" />
 </a>
