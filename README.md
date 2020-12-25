@@ -28,7 +28,7 @@ I am an economist with over 10 years of experience in data-related roles. I have
 </a>
 -->
 <a href="https://github.com/daczarne/daczarne">
-  <img align="center" src="https://github-readme-stats-ten-pink.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical&exclude_repo=udelar_econometria_2,udelar_computacion_1,udelar_organizacion_industrial,udelar_muestreo_1,udelar_muestreo_2,udelar_estadistica_no_parametrica,udelar_modelos_lineales,udelar_ntaed,udelar_analisis_multivariado_1,rep_research,cv,dnd_bayes" />
+  <img align="center" src="https://github-readme-stats-ten-pink.vercel.app/api/top-langs/?username=daczarne&langs_count=10&layout=compact&theme=radical" />
 </a>
 
 
