@@ -35,5 +35,4 @@ I am an economist with over 10 years of experience in data-related roles. I have
 </a>
 <a href="https://stackoverflow.com/users/5908830/daniel" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="color:FE7A16" />
-</a> 
-
+</a>
