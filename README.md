@@ -2,7 +2,7 @@
 
 ---
 
-I am an economist with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Product Analyst at Delivery Hero, one of the largest online food delivery companies in the world with a presence in over 40 countries.
+I am an economist with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Product Analyst at Delivery Hero, one of the largest online food delivery companies in the world with present in over 40 countries.
 
 ### Tooling
 
