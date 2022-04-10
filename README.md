@@ -2,7 +2,7 @@
 
 I am an economist and statistician with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the largest online food delivery companies in the world with a presence in over 50 countries.
 
-<h3 align="left">Languages and Tools</h3>
+### Languages and Tools
 
 <p align="left">
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer">
@@ -90,21 +90,19 @@ I am an economist and statistician with over 10 years of experience in data-rela
   </a>
 </p>
 
+### Get in touch
+
 <!--
-<br>
-
-<h3 align="left">Get in touch</h3>
-
 <a href="https://danielczarnievicz.netlify.app/portfolio" fill="fe7a16" >
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://twitter.com/daczarne" >
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+-->
 <a href="https://www.linkedin.com/in/danielczarnievicz/" >
+  <!-- 
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg
+  -->
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/5908830/daniel" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="color:FE7A16" />
 </a>
--->
