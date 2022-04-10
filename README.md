@@ -45,6 +45,10 @@ I am an economist and statistician with over 10 years of experience in data-rela
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
   </a>
