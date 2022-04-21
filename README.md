@@ -4,6 +4,7 @@ I am an economist and statistician with over 10 years of experience in data-rela
 
 ## Languages and Tools
 
+<!-- markdownlint-disable MD033 -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   &nbsp;
@@ -55,9 +56,11 @@ I am an economist and statistician with over 10 years of experience in data-rela
   &nbsp;
   <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/yaml.svg" alt="yaml" width="40" height="40"/>
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ## Get in touch
 
+<!-- markdownlint-disable MD033 -->
 <!--
 <a href="https://danielczarnievicz.netlify.app/portfolio" fill="fe7a16" >
   <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -72,3 +75,4 @@ I am an economist and statistician with over 10 years of experience in data-rela
 <a href="https://stackoverflow.com/users/5908830/daniel" >
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" style="color:FE7A16" />
 </a>
+<!-- markdownlint-enable MD033 -->
