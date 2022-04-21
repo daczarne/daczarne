@@ -1,8 +1,8 @@
-## Hi there 👋 
+# Hi there 👋
 
 I am an economist and statistician with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the largest online food delivery companies in the world with a presence in over 50 countries.
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
@@ -56,7 +56,7 @@ I am an economist and statistician with over 10 years of experience in data-rela
   <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/yaml.svg" alt="yaml" width="40" height="40"/>
 </p>
 
-### Get in touch
+## Get in touch
 
 <!--
 <a href="https://danielczarnievicz.netlify.app/portfolio" fill="fe7a16" >
