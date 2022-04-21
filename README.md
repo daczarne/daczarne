@@ -51,6 +51,8 @@ I am an economist and statistician with over 10 years of experience in data-rela
   &nbsp;
   <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/google-bigquery.svg" alt="google-bigquery" width="40" height="40"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/apache-airflow.svg" alt="apache-airflow" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/yaml.svg" alt="yaml" width="40" height="40"/>
 </p>
 
