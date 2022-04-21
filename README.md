@@ -47,7 +47,7 @@ I am an economist and statistician with over 10 years of experience in data-rela
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/pytest/yaml.svg" alt="yaml" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/daczarne/daczarne/master/icons/yaml.svg" alt="yaml" width="40" height="40"/>
 </p>
 
 ### Get in touch
