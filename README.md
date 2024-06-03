@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am an economist and statistician with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the largest online food and groceries delivery companies in the world with a presence in over 50 countries.
+I am an economist and statistician with over 10 years of experience in data-related roles. I have worked both in academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the world's largest online food and groceries delivery companies with a presence in over 60 countries.
 
 ## Languages and Tools
 
