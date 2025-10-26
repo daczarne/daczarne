@@ -8,7 +8,7 @@ online food and groceries delivery companies with a presence in almost 100 count
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skills.syvixor.com/api/icons?i=python,sql,markdown,javascript,nodejs,html,css3" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,sql,markdown,html,css3,javascript,nodejs" />
   <!-- Terminals -->
   <img src="https://skills.syvixor.com/api/icons?i=bash,zshell,homebrew,npm,pypi" />
 </p>
