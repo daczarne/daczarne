@@ -1,13 +1,32 @@
 {
-  "version": "0.2",
-  "ignorePaths": [],
-  "dictionaryDefinitions": [],
-  "dictionaries": [],
-  "words": [],
-  "ignoreWords": [
-    "numpy",
-    "pytest",
-    "rstudio"
-  ],
-  "import": []
+    "version": "0.2",
+    "language": "en",
+    "ignorePaths": [
+        ".gitattributes",
+        ".gitignore",
+        "**/.git/**",
+    ],
+    "dictionaryDefinitions": [ ],
+    "dictionaries": [ ],
+    "words": [ ],
+    "ignoreWords": [ ],
+    "overrides": [
+        {
+            "filename": "**/*.yaml",
+            "languageId": "yaml",
+        },
+        {
+            "filename": "**/*.yml",
+            "languageId": "yaml",
+        },
+        {
+            "filename": "**/*.md",
+            "languageId": "markdown",
+        },
+    ],
+    "ignoreRegExpList": [
+        // Ignores UUIDs
+        "\\b[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}\\b",
+    ],
+    "useGitignore": false,
 }
