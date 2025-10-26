@@ -52,18 +52,16 @@ online food and groceries delivery companies with a presence in almost 100 count
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=jquery,jest,bootstrap" />
   <img src="https://skills.syvixor.com/api/icons?i=hugo" />
-</p>
-<p align="center">
   <!-- Version control -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=gitkraken,jenkins,kubernetes" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=gitkraken,jenkins" />
   <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows" />
   <!--  -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=ansible,notepadplusplus,xcode,pycharm,drawio" />
-  <!-- Cloud and databases -->
-  <img src="https://skills.syvixor.com/api/icons?i=sqlserver,sqlite,amazonwebservices,heroku,netlify,vercel" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=ansible,kubernetes,notepadplusplus,xcode,pycharm,drawio" />
 </p>
 <p align="center">
+  <!-- Cloud and databases -->
+  <img src="https://skills.syvixor.com/api/icons?i=sqlserver,sqlite,amazonwebservices,heroku,netlify,vercel" />
   <!-- Data serialization languages -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=xml" />
   <!-- Business tools -->
