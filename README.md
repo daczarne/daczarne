@@ -37,16 +37,17 @@ online food and groceries delivery companies with a presence in almost 100 count
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skills.syvixor.com/api/icons?i=r,java,scala,javascript,c,gnu,matlab,stata,latex" />
+  <img src="https://skills.syvixor.com/api/icons?i=r,java,scala,c,gnu,matlab,stata,latex" />
   <!-- Terminals -->
   <img src="https://skills.syvixor.com/api/icons?i=gitbash,powershell" />
   <!-- Libraries and frameworks -->
   <img src="https://skills.syvixor.com/api/icons?i=anaconda,jupyter,flask,django" />
 </p>
 <p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=apache,apachehive,apachehadoop" />
   <img src="https://skills.syvixor.com/api/icons?i=numpy,keras,matplotlib,pandas,polars" />
   <img src="https://skills.syvixor.com/api/icons?i=scipy,seaborn,scikitlearn,tensorflow" />
-  <img src="https://skills.syvixor.com/api/icons?i=eslint,prettier,jquery,jest" />
+  <img src="https://skills.syvixor.com/api/icons?i=eslint,prettier,jquery,jest,bootstrap" />
   <img src="https://skills.syvixor.com/api/icons?i=hugo" />
 </p>
 <p align="center">
