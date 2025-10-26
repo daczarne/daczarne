@@ -4,30 +4,38 @@ I am an economist and statistician with over 10 years of experience in data-rela
 
 ## Languages and Tools
 
-<!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,bash,html,css,js" />
+  <img src="https://skills.syvixor.com/api/icons?i=py,r,html,css,js,sql,markdown" />
+  <img src="https://skills.syvixor.com/api/icons?i=bash,gitbash,zshell,homebrew" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
-  <img src="https://skillicons.dev/icons?i=md,latex" />
+  <img src="https://skills.syvixor.com/api/icons?i=airflow,flask,django,pytest,numpy,regex" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apple,windows" />
-  <img src="https://skillicons.dev/icons?i=gcp,terraform,vscode" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,githubpages" />
 </p>
-<!-- markdownlint-enable MD033 -->
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,macos,windows" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=googlecloud,googlebigquery" />
+</p>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=yaml,json,toml" />
+</p>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=slack,trello,stackoverflow,jira,confluence" />
+</p>
 
 ## Get in touch
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://www.linkedin.com/in/danielczarnievicz/" >
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://stackoverflow.com/users/5908830/daniel" >
-  <img src="https://skillicons.dev/icons?i=stackoverflow" />
-</a>
-<a href="https://github.com/daczarne" >
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<!-- markdownlint-enable MD033 -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielczarnievicz/" style="text-decoration:none;" >
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/5908830/daniel" style="text-decoration:none;" >
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=stackoverflow" />
+  </a>
+  <a href="https://github.com/daczarne" style="text-decoration:none;" >
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" />
+  </a>
+</p>
