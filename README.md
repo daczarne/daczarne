@@ -25,7 +25,7 @@ online food and groceries delivery companies with a presence in almost 100 count
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=yaml,json,toml" />
 </p>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=slack,trello,stackoverflow,jira,confluence" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=slack,trello,jira,confluence" />
 </p>
 
 ## Get in touch
