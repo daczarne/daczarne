@@ -4,7 +4,7 @@ I am an economist and statistician with over 10 years of experience in data-rela
 academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the world's largest
 online food and groceries delivery companies with a presence in almost 100 countries.
 
-## Tools I use frequently
+## Main tools
 
 <p align="center">
   <!-- Languages -->
@@ -22,15 +22,15 @@ online food and groceries delivery companies with a presence in almost 100 count
   <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,macos" />
   <!--  -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker,vscode,datadog" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker,vscode" />
   <!-- Cloud and databases -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=googlecloud,googlebigquery,postgresql" />
   <!-- Data serialization languages -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=yaml,json,jsonschema,toml" />
-</p>
-<p align="center">
   <!-- Business tools -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=slack,jira,lookerstudio" />
+</p>
+<p align="center">
 </p>
 
 ## Other tools I work with
@@ -65,7 +65,7 @@ online food and groceries delivery companies with a presence in almost 100 count
   <!-- Data serialization languages -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=xml" />
   <!-- Business tools -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=trello,confluence,tableau,grafana" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=trello,confluence,tableau,grafana,datadog" />
 </p>
 
 ## Get in touch
