@@ -4,7 +4,7 @@ I am an economist and statistician with over 10 years of experience in data-rela
 academia and in the private sector. I currently work as a Data Engineer at Delivery Hero, one of the world's largest
 online food and groceries delivery companies with a presence in almost 100 countries.
 
-## Languages and Tools
+## Tools I use
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=py,r,html,css,js,sql,markdown" />
