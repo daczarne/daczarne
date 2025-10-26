@@ -6,82 +6,61 @@ online food and groceries delivery companies with a presence in almost 100 count
 
 ## Tools I use frequently
 
-<!-- Languages -->
 <p align="center">
+  <!-- Languages -->
   <img src="https://skills.syvixor.com/api/icons?i=python,sql,markdown,javascript,nodejs,html,css3" />
-</p>
-<!-- Terminals -->
-<p align="center">
+  <!-- Terminals -->
   <img src="https://skills.syvixor.com/api/icons?i=bash,zshell,homebrew,npm,pypi" />
 </p>
-<!-- Libraries and frameworks -->
 <p align="center">
+  <!-- Libraries and frameworks -->
   <img src="https://skills.syvixor.com/api/icons?i=airflow,pytest,spark,astraluv,psycopg,sqlalchemy,regex,mkdocs" />
-</p>
-<!-- Version control -->
-<p align="center">
+  <!-- Version control -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,githubpages,dependabot,mermaid" />
 </p>
-<!-- Operating systems -->
 <p align="center">
+  <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,macos" />
-</p>
-<!--  -->
-<p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker,vscode,xcode,pycharm,datadog" />
-</p>
-<!-- Cloud and databases -->
-<p align="center">
+  <!--  -->
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker,vscode,datadog" />
+  <!-- Cloud and databases -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=googlecloud,googlebigquery,postgresql" />
-</p>
-<!-- Data serialization languages -->
-<p align="center">
+  <!-- Data serialization languages -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=yaml,json,jsonschema,toml" />
 </p>
-<!-- Business tools -->
 <p align="center">
+  <!-- Business tools -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=slack,jira,lookerstudio" />
 </p>
 
-## Other tools I have worked with
+## Other tools I work with
 
-<!-- Languages -->
 <p align="center">
+  <!-- Languages -->
   <img src="https://skills.syvixor.com/api/icons?i=r,java,scala,javascript,c,gnu,matlab,stata,latex" />
-</p>
-<!-- Terminals -->
-<p align="center">
+  <!-- Terminals -->
   <img src="https://skills.syvixor.com/api/icons?i=gitbash,powershell" />
+  <!-- Libraries and frameworks -->
+  <img src="https://skills.syvixor.com/api/icons?i=anaconda,jupyter,flask,django" />
 </p>
-<!-- Libraries and frameworks -->
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=anaconda,jupyter,flask,django,numpy,keras,matplotlib,pandas,polars" />
+  <img src="https://skills.syvixor.com/api/icons?i=numpy,keras,matplotlib,pandas,polars" />
   <img src="https://skills.syvixor.com/api/icons?i=scipy,seaborn,scikitlearn,tensorflow" />
   <img src="https://skills.syvixor.com/api/icons?i=eslint,prettier,jquery,jest" />
   <img src="https://skills.syvixor.com/api/icons?i=hugo" />
-</p>
-<!-- Version control -->
-<p align="center">
+  <!-- Version control -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=gitkraken,jenkins,kubernetes" />
 </p>
-<!-- Operating systems -->
 <p align="center">
+  <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows" />
-</p>
-<!--  -->
-<p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=ansible,notepadplusplus,drawio" />
-</p>
-<!-- Cloud and databases -->
-<p align="center">
+  <!--  -->
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=ansible,notepadplusplus,xcode,pycharm,drawio" />
+  <!-- Cloud and databases -->
   <img src="https://skills.syvixor.com/api/icons?i=sqlserver,sqlite,amazonwebservices,heroku,netlify,vercel" />
-</p>
-<!-- Data serialization languages -->
-<p align="center">
+  <!-- Data serialization languages -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=xml" />
-</p>
-<!-- Business tools -->
-<p align="center">
+  <!-- Business tools -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=trello,confluence,tableau,grafana" />
 </p>
 
