@@ -7,7 +7,7 @@ online food and groceries delivery companies with a presence in almost 100 count
 ## Tools I use
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=py,r,html,css3,js,sql,markdown" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,r,html,css3,js,sql,markdown" />
   <img src="https://skills.syvixor.com/api/icons?i=bash,gitbash,zshell,homebrew" />
 </p>
 <p align="center">
