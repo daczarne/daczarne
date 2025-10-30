@@ -16,11 +16,11 @@ online food and groceries delivery companies with a presence in almost 100 count
   <!-- Libraries and frameworks -->
   <img src="https://skills.syvixor.com/api/icons?i=airflow,pytest,spark,astraluv,psycopg,sqlalchemy,regex,mkdocs" />
   <!-- Version control -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,githubpages,dependabot,mermaid" />
-</p>
-<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,githubactions,githubpages" />
   <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,macos" />
+</p>
+<p align="center">
   <!--  -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=terraform,docker,vscode" />
   <!-- Cloud and databases -->
@@ -53,7 +53,7 @@ online food and groceries delivery companies with a presence in almost 100 count
   <img src="https://skills.syvixor.com/api/icons?i=jquery,jest,bootstrap" />
   <img src="https://skills.syvixor.com/api/icons?i=hugo" />
   <!-- Version control -->
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=gitkraken,jenkins" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=dependabot,mermaid" />
   <!-- Operating systems -->
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows" />
   <!--  -->
