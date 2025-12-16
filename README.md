@@ -33,7 +33,7 @@ online food and groceries delivery companies with a presence in almost 100 count
 <p align="center">
 </p>
 
-## Other tools I work with
+## Other tools I have worked with
 
 <p align="center">
   <!-- Languages -->
