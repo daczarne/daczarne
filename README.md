@@ -10,9 +10,6 @@ online food and groceries delivery companies with a presence in almost 100 count
   <a href="https://www.linkedin.com/in/danielczarnievicz/" style="text-decoration:none;"
   ><img src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" /></a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/5908830/daniel" style="text-decoration:none;"
-  ><img src="https://skills.syvixor.com/api/icons?perline=15&i=stackoverflow" /></a>
-  &nbsp;
   <a href="https://github.com/daczarne" style="text-decoration:none;"
   ><img src="https://skills.syvixor.com/api/icons?perline=15&i=github" /></a>
 </p>
